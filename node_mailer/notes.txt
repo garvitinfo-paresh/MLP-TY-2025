@@ -1,0 +1,4 @@
+create a folder -nodemailer
+-> npm init -y 
+-> npm install nodemailerw
+-> cerate a file app.js
