@@ -1,0 +1,4 @@
+create folder   1_express
+cd 1_express
+npm init -y     ->   package.json
+npm install express
